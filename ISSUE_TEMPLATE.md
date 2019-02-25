@@ -5,6 +5,9 @@ If you are trying to run Ether Cattle yourself and have found a bug in the clien
 https://github.com/notegio/go-ethereum/
 
 This repository is intended for issue reports related to the OpenRelay hosted endpoints.
+
+Please **do not** file issues if you are getting a 5XX gateway error. We have monitoring in place to alert 
+us to that. We are trying to identify places where our replica servers are returning incorrect results.
 -->
 
 ## Network
